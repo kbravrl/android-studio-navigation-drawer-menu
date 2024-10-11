@@ -11,7 +11,7 @@ This project is a sample application that allows you to switch between different
 ## Requirements
 
 - Android Studio
-- Android SDK
 - Java
+- XML for UI design
 
 [android-studio-navigation-drawer-menu.webm](https://github.com/user-attachments/assets/f99c2cda-4ece-4bfd-bf5d-4f12cc723340)
